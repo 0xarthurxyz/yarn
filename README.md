@@ -1,5 +1,14 @@
 # Yarn (Cheat Sheet)
 
+## `yarn init`
+
+Use `yarn init` to initialize a Node.js project and create a `package.json` file.
+
+## `yarn add --dev` and `yarn remove`
+
+Use `yarn add --dev` to add a package to the `devDependencies` section of `package.json`.
+Or use `yarn add -D` as a shortcut.
+
 ## `yarn link` example
 
 How to use a local branch of an NPM project for testing purposes, e.g. a local branch of `viem`.
